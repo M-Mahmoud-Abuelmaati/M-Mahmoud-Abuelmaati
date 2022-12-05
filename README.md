@@ -2,7 +2,7 @@
 - 👀 I’m a Full Stack Web Developer (Self-Taught)
 - 🔭 I’m currently working on Upwork.com and Freelancer.com
 - :confounded: I’m currently learning new technologies for backend development 
-- :heart_eyes: I've two certifices from Udacity
+- :heart_eyes: I've two certificates from Udacity
   - [Full Stack Web Development Nanodegree](https://graduation.udacity.com/confirm/6KMVGPCN) 
   - [React Development Nanodegree](https://graduation.udacity.com/confirm/6CCQAGQT)
 - 📫 How to reach me: 
