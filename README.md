@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Mahmoud
 - 👀 I’m a Full Stack Web Developer (Self-Taught)
-- 🔭 I’m currently working on Upwork.com and Freelancer.com
+- 🔭 I’m currently working at Upwork.com and Freelancer.com
 - :confounded: I’m currently learning new technologies for backend development 
 - :heart_eyes: I've two certificates from Udacity
   - [Full Stack Web Development Nanodegree](https://graduation.udacity.com/confirm/6KMVGPCN) 
