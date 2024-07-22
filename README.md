@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohamed Mahmoud
 - 👀 I’m a Full Stack Web Developer (Self-Taught)
-- 🔭 I’m currently working at Unifi Solutions and Upwork
 - :heart_eyes: I've two certificates from Udacity
   - [Full Stack Web Development Nanodegree](https://graduation.udacity.com/confirm/6KMVGPCN) 
   - [React Development Nanodegree](https://graduation.udacity.com/confirm/6CCQAGQT)
